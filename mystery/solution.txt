@@ -1,0 +1,75 @@
+  446  cd command-line-murder-mystery
+  447  ls
+  448  atom .
+  449  clear
+  450  ls
+  451  cat instructions
+  452  man cat
+  453  clear
+  454  cd
+  455  ls
+  456  cd code
+  457  ls
+  458  cd command-line-murder-mystery
+  459  ls
+  460  clear
+  461  cat instructions
+  462  ls
+  463  cd mystery
+  464  ls
+  465  cat crimescene
+  466  LS
+  467  cd interviews
+  468  ls
+  469  cd ..
+  470  cd people
+  471  ls
+  472  cat people
+  473  cd places
+  474  cd streets
+  475  ls
+  476  cat Hart_Place
+  477  cd ..
+  478  cd interviews
+  479  ls
+  480  cat interview-47246024
+  481  cd ..
+  482  cd streets
+  483  cat Buckingham_Place
+  484  cat Mattapan_Street
+  485  cat Haley_Street
+  486  cd ..
+  487  cd interviews
+  488  cat interview-9437737
+  489  cat interview-699607
+  490  cd ..
+  491  ls
+  492  cat vehicles
+  493  cd memberships
+  494  ls
+  495  cat Museum_of_Bash_History
+  496  cd ..
+  497  cd streets
+  498  cat Rozella_Street
+  499  cd..
+  500  cd ..
+  501  cd interviews
+  502  cat interview-17898
+  503  cat interview-174898
+  504  cat interview-871877
+  505  cd ..
+  506  cd streets
+  507  cat Dunstable_Road
+  508  cat Plainfield_Street
+  509  cd ~/code/command-line-murder-mystery/mystery/interviews
+  510  cat interview-9620713
+  511  cat interview-29741223
+  512  cd ~/code/command-line-murder-mystery/mystery/memberships
+  513  ls
+  514  cat Delta_SkyMiles
+  515  cat library.txt
+  516  cat AAA
+  517  cd ..
+  518  history
+
+Name of Killer: Jeremy Bowers
